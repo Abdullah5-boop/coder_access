@@ -1,3 +1,6 @@
 [submodule "coder-byte"]
 	path = coder-byte
 	url = https://github.com/raselcsedev/coder-byte.git
+[submodule "coderAccess-server"]
+	path = coderAccess-server
+	url = https://github.com/pavel-genuine/coderAccess-server.git
